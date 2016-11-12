@@ -1,0 +1,27 @@
+{
+  "name": "aca-lesson2classwork",
+  "version": "1.0.0",
+  "description": "A starter app in routing with express.js",
+  "main": "names.js",
+  "scripts": {
+    "start": "nodemon ./app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giovanna8/aca-lesson2classwork"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Giovanna8/aca-lesson2classwork/issues"
+  },
+  "homepage": "https://github.com/Giovanna8/aca-lesson2classwork#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "nodemon": "^1.11.0"
+  }
+}
